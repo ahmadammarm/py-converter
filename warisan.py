@@ -19,7 +19,6 @@ total_unit = (jumlah_anak_laki * 2) + (jumlah_anak_perempuan * 1)
 
 if total_unit == 0:
     print("Tidak ada anak jadi tidak perlu pembagian lagi")
-    exit()
 
 else:
     unit = sisa_harta / total_unit
